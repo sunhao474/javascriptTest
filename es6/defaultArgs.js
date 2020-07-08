@@ -13,4 +13,3 @@ let y = 3;
 a(x);
 
 console.log(x);
-
