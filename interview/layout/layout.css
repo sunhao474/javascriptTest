@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    margin: 0;
+}
+
+.content {
+    display: flex;
+    /* align-items: flex-start; */
+    height: 100%;
+}
+
+.left {
+    flex: 0 0 auto;
+    background: yellow;
+}
+
+.right {
+    flex: 1 1 auto;
+    width: 100%;
+    background: red;
+    border: 0;
+}
